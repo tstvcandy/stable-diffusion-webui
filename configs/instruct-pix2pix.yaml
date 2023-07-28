@@ -96,3 +96,5 @@ data:
         crop_res: 512
         output_as_edit: False
         real_input: True
+        git config –global http.proxy http://127.0.0.1:1080
+        git config –global https.proxy http://127.0.0.1:108
